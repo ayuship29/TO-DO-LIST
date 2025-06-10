@@ -5,7 +5,7 @@ A responsive and interactive To-Do List application built with HTML, CSS, and Ja
 
 ## Features
 
-- ✅ Add, edit, and delete tasks
+- ✅ Add and delete tasks
 - ✅ Mark tasks as completed or pending
 - ✅ Filter tasks by status (All, Pending, Completed)
 - ✅ Toggle between light and dark themes
